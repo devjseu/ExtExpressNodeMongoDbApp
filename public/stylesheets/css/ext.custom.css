@@ -1,0 +1,27 @@
+.button-search{
+    background: url(../../images/admin/icons/search.png) no-repeat;
+    background-size: 95% 95%;
+}
+.button-remove{
+    background: url(../../images/admin/icons/recycleBin.png) no-repeat;
+    background-size: 95% 95%;
+}
+
+.button-refresh{
+    background: url(../../images/admin/icons/refresh.png) no-repeat;
+    background-size: 95% 95%;
+}
+
+.button-edit{
+    background: url(../../images/admin/icons/pencil.png) no-repeat;
+    background-size: 95% 95%;
+}
+
+.button-info{
+    background: url(../../images/admin/icons/lightbulb.png) no-repeat;
+    background-size: 95% 95%;
+}
+
+.menu-tree-icon{
+    display: none;
+}
