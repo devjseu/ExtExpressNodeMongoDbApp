@@ -24,8 +24,7 @@ Ext.define('DevJS.model.User', {
             name: 'email'
         },
         {
-            name: '_id',
-            defaultValue: null
+            name: '_id'
         }
     ]
 });
